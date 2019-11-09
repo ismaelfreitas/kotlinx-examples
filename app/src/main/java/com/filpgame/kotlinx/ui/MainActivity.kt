@@ -2,7 +2,7 @@ package com.filpgame.kotlinx.ui
 
 import android.content.Intent
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import com.filpgame.kotlinx.R
 import com.filpgame.kotlinx.ui.customview.CustomViewActivity
 import com.filpgame.kotlinx.ui.fragment.TestActivity

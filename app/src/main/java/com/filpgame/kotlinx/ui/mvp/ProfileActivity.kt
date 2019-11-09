@@ -1,9 +1,9 @@
 package com.filpgame.kotlinx.ui.mvp
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
 import com.filpgame.kotlinx.R
 import kotlinx.android.synthetic.main.activity_profile.birthDateTextView as _birthDateTextView
 import kotlinx.android.synthetic.main.activity_profile.firstNameTextView as _firstNameTextView
